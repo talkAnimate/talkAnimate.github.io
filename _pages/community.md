@@ -20,8 +20,8 @@ subtitle: Why you'd want to go on a date with me
         <meta name="description" content="Learn more about joining the Jovo community."/>
         <link rel="icon" href="/favicon.ico"/>
         <meta name="next-head-count" content="6"/>
-        <link rel="preload" href="/_next/static/css/e2ea3eb6918b3cb17a37.css" as="style"/>
-        <link rel="stylesheet" href="/_next/static/css/e2ea3eb6918b3cb17a37.css" data-n-g=""/>
+        <link rel="preload" href="/css/e2ea3eb6918b3cb17a37.css" as="style"/>
+        <link rel="stylesheet" href="/css/e2ea3eb6918b3cb17a37.css" data-n-g=""/>
         <noscript data-n-css="">
         </noscript>
         <script defer="" nomodule="" src="/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js">
