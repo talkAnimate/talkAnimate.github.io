@@ -1,3 +1,9 @@
+---
+permalink: "/index2.html"
+layout: none
+title: About me
+subtitle: Why you'd want to go on a date with me
+---
 <html>
 <head>
 <link rel="icon" href="/favicon.ico">
