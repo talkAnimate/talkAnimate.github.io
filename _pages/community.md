@@ -4,8 +4,7 @@ layout: none
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
-<!DOCTYPE html>
-        <html>
+<html>
         <head>
         <link rel="icon" href="/favicon.ico"/>
         <link rel="icon" href="/favicon.ico" sizes="any"/>
